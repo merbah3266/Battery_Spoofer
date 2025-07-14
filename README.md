@@ -96,5 +96,5 @@ MIT License
 
 Developed with care by:
 
-- **MERBAH3266**
+- [**MERBAH3266**](https://github.com/MERBAH3266)
 - **CHAOUCHI**
