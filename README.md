@@ -42,7 +42,7 @@ bspoof
 ### Interactive Mode
 
 ```bash
-./battery_spoofer.sh
+~ $ bspoof
 ```
 
 Menu Options:
@@ -55,10 +55,10 @@ Menu Options:
 
 ```bash
 # Set battery level to 55%
-./battery_spoofer.sh set 55
+~ $ bspoof set 55
 
 # Reset battery state
-./battery_spoofer.sh reset
+~ $ bspoof reset
 ```
 
 
