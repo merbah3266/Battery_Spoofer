@@ -69,6 +69,10 @@ Menu Options:
 - Displays clear messages on failure (e.g., missing `rish`, Shizuku not running)
 - Can work fully offline after setup
 
+> [!WARNING]
+> This script is safe and has been tested under normal conditions.  
+> However, we are **not responsible** for any unexpected behavior or damage that may occur.  
+> Use it **at your own risk**.
 
 ## License
 
