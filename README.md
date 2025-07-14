@@ -23,6 +23,19 @@ Run this command directly in **Termux**:
 bash <(curl -fsSL https://bit.ly/bspoof)
 ```
 
+Follow the on-screen steps:
+
+- On first install, you'll be asked to confirm by typing **`y`** to proceed.
+- If the script is already installed, it will detect the existing version and ask whether to update.
+- Press **`y`** then **Enter** to confirm the update.  
+  Pressing **`n`** or any other key will **cancel the installation**.
+
+After successful installation, run the tool using:
+
+```bash
+bspoof
+```
+
 
 ## Usage
 
