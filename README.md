@@ -67,7 +67,7 @@ Menu Options:
 - Termux installed
 
 ### For Shizuku mode:
-- `rish` binary must be in the same directory
+- `rish` script must be in the same directory
 - Make it executable: `chmod +x rish`
 - Shizuku app must be running in the background
 
