@@ -79,7 +79,6 @@ Menu Options:
 ## Notes
 
 - Automatically chooses root or shizuku mode
-- Displays clear messages on failure (e.g., missing `rish`, Shizuku not running)
 - Can work fully offline after setup
 
 > [!WARNING]
