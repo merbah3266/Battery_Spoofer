@@ -35,6 +35,18 @@
     ]
   }
   </script>
+  <style>
+    .hyperlink {
+  text-decoration: none; /* إزالة الخط */
+  color: #4da6ff; /* لون مناسب للروابط */
+  font-weight: bold; /* توضيح الرابط بخط بارز */
+  transition: color 0.3s ease; /* تأثير سلس عند التفاعل */
+}
+
+.hyperlink:hover {
+  color: #ffffff; /* تغيّر اللون عند المرور */
+}
+  </style>
 </head>
 <body>
   <canvas id="snowCanvas"></canvas>
@@ -66,9 +78,9 @@
 
     <p style="margin-top: 2rem; font-size: 0.9rem;">
       Created by 
-      <a href="https://github.com/merbah3266" target="_blank">merbah3266</a> 
+      <a class="hyperlink" href="https://github.com/merbah3266" target="_blank">merbah3266</a> 
       and 
-      <a href="https://github.com/chaouchi16" target="_blank">chaouchi16</a>
+      <a class="hyperlink" href="https://github.com/chaouchi16" target="_blank">chaouchi16</a>
     </p>
   </div>
 
